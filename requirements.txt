@@ -4,3 +4,4 @@ pandas==1.4.4
 seaborn==0.11.2
 streamlit==1.22.0
 streamlit_echarts==0.4.0
+sqlalchemy==1.4.32
