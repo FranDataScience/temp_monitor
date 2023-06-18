@@ -181,8 +181,8 @@ while True:
         st.pyplot(fig, use_column_width=True)
          
    
-    # Esperar 5 segundos antes de la siguiente actualización
-    time.sleep(5)
+    # Esperar 60 segundos antes de la siguiente actualización
+    time.sleep(60)
     
     st.experimental_rerun()
 
