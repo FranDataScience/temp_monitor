@@ -182,7 +182,7 @@ while True:
          
    
     # Esperar 60 segundos antes de la siguiente actualización
-    time.sleep(60)
+    time.sleep(120)
     
     st.experimental_rerun()
 
